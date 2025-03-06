@@ -10,7 +10,8 @@ A new e-commerce brand wants to get launched before that specializing who are th
 - What is the highest preferred payment method ?						
 - Which season had more sales?						
 - Top 5 items with top reviews.						
-						
+- Dashboard Interaction <a href="https://github.com/Ayankhannn/Data-Analysis_dashboard/blob/main/Dashboard.png">View Dashboard</a>
+
  
 
  
