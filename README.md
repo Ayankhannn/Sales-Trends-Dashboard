@@ -18,7 +18,12 @@ A new e-commerce brand wants to get launched before that specializing who are th
 - Verify data for any missing valuses and anomalies,and sort out the same.
 - Made sure data is consistent and clean with respect to data types, data fromat and values used.
 - Created pivot tables according to the kpis.
-- Merged all pivot tables into one dashboard.  
+- Merged all pivot tables into one dashboard.
+
+## Dashboard
+
+![Dashboard](https://github.com/user-attachments/assets/db9fb763-fdb0-47f7-86f7-b00e0a185f94)
+
   
  
 
