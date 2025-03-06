@@ -24,6 +24,13 @@ A new e-commerce brand wants to get launched before that specializing who are th
 
 ![Dashboard](https://github.com/user-attachments/assets/db9fb763-fdb0-47f7-86f7-b00e0a185f94)
 
+## Project insight
+
+- The Maximum senior citizens are more likely to give 5 star ratings.
+- 
+- 
+- 
+
   
  
 
