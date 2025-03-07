@@ -1,7 +1,7 @@
 
 # Sales-Trends-Data-Analysis(Interactive Dashboard Creation using Ms Excel) 
 ## Project objective 
-A new e-commerce brand wants to get launched before that specializing who are their biggest competitors and what are they best in. 
+A new e-commerce brand wants to get launched before that specializing the categories which they can enter in with what best price to attract the consumer the most.
 ## Questions (kpis) 					
 - QUICK STATISTICS.						
 - EDA(exploratory data analysis WITH CF(conditional formatting)						
@@ -26,8 +26,10 @@ A new e-commerce brand wants to get launched before that specializing who are th
 
 ## Project insight
 
-- The Maximum senior citizens are more likely to give 5 star ratings.
-- 
+- The Maximum senior citizens are more likely to give the more star ratings.
+- Comparing to women ,men are more likely to spend money on clothing which is 2x.
+- People got more comfortable using credit cards,category with hassle-free payment method.
+- Fall is the season where Businesse can make big money, buying supplies, clothing, gadgets, and other necessities for the school year.
 - 
 - 
 
