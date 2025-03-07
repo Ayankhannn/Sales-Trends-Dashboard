@@ -30,8 +30,6 @@ A new e-commerce brand wants to get launched before that specializing the catego
 - Comparing to women ,men are more likely to spend money on clothing which is 2x.
 - People got more comfortable using credit cards,category with hassle-free payment method.
 - Fall is the season where Businesse can make big money, buying supplies, clothing, gadgets, and other necessities for the school year.
-- 
-- 
 
   
  
